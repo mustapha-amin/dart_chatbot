@@ -1,4 +1,4 @@
-// import 'package:dart_gemini_test/dart_gemini_test.dart';
+// import 'package:dart_chatbot/dart_chatbot.dart';
 // import 'package:test/test.dart';
 
 // void main() {
